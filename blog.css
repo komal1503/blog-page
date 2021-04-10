@@ -1,0 +1,87 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5{
+    font-weight: 700;
+    color: #66fcf1;
+}
+
+.navbar{
+    background-color: #0b0c10;
+}
+
+.navbar-brand{
+    font-weight: 700;
+    font-size: 100px;
+}
+
+.hero{
+    background-color: #1f2833;
+}
+
+.hero-post-content img{
+    border: 2px solid #66fcf1;
+}
+
+a{
+    color:#66fcf1 
+}
+
+input{
+    background-color: #1f2833;
+    color: #66fcf1;
+}
+
+img{
+    filter: grayscale(50%) brightness(0.8);
+}
+
+img.rounded-circle{
+    filter: none;
+    border: 2px solid #66fcf1;
+}
+
+.blog-posts{
+    background-color:#0b0c10 ;
+    color: #c5c6c7;
+}
+
+.blog-post{
+    background-color:#1f2833 ;
+}
+
+.blog-post p{
+    font-size: 0.9rem;
+}
+
+footer{
+    background-color:#1f2833 ;
+}
+
+div.row{
+    color: #c5c6c7;
+}
+
+.w-100.text-center.credits{
+    color: aqua;
+}
+
+.badge.w-100{
+    font-weight: 700;
+    color:black;
+    
+}
+
+p.badge-link{
+    background-color:#66fcf1 ;
+    background-origin:border-box;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
